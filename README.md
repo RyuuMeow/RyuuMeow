@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to my GitHub! 👋
 
-<!--
-**jyst06/jyst06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visits Badge](https://badges.pufler.dev/visits/jyst06/jyst06)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/jyst06)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/jyst06)](https://badges.pufler.dev)
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyst06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyst06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Releases
+
+[![Releases Badge](https://img.shields.io/github/downloads/jyst06/WurtheringWave_Analyzer/total)](https://github.com/jyst06/WurtheringWave_Analyzer/releases)
+[![Latest Release](https://img.shields.io/github/v/release/jyst06/WurtheringWave_Analyzer)](https://github.com/jyst06/WurtheringWave_Analyzer/releases/latest)
+
+## Visits
+![Visitor Count](https://profile-counter.glitch.me/jyst06/count.svg)
+
