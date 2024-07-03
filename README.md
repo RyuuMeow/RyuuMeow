@@ -7,11 +7,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyst06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyst06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Releases
-
-[![Releases Badge](https://img.shields.io/github/downloads/jyst06/WurtheringWave_Analyzer/total)](https://github.com/jyst06/WurtheringWave_Analyzer/releases)
-[![Latest Release](https://img.shields.io/github/v/release/jyst06/WurtheringWave_Analyzer)](https://github.com/jyst06/WurtheringWave_Analyzer/releases/latest)
-
 ## Visits
 ![Visitor Count](https://profile-counter.glitch.me/jyst06/count.svg)
 
