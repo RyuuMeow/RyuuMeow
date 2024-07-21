@@ -1,6 +1,5 @@
 # Welcome to my GitHub! 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/jyst06/jyst06)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/jyst06)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/jyst06)](https://badges.pufler.dev)
 
