@@ -42,3 +42,6 @@
 [![GitHub](https://img.shields.io/github/followers/RyuuMeow?label=follow&style=social)](https://github.com/RyuuMeow)
 
 </div>
+
+### 🐍 GitHub Contributions
+![GitHub 貢獻貪吃蛇](https://github.com/RyuuMeow/RyuuMeow/blob/output/github-contribution-grid-snake.svg)
