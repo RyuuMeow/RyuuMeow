@@ -44,4 +44,4 @@
 </div>
 
 ### 🐍 GitHub Contributions
-![GitHub 貢獻貪吃蛇](https://raw.githubusercontent.com/RyuuMeow/RyuuMeow/main/dist/github-contribution-grid-snake.svg)
+![GitHub 貢獻貪吃蛇](https://github.com/RyuuMeow/RyuuMeow/raw/main/dist/github-contribution-grid-snake.svg)
