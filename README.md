@@ -35,7 +35,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RyuuMeow&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
 ## 🐍 GitHub Contributions
 ![GitHub 貢獻貪吃蛇](https://github.com/RyuuMeow/RyuuMeow/raw/main/dist/github-contribution-grid-snake.svg)
