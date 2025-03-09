@@ -7,7 +7,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/RyuuMeow)](https://badges.pufler.dev)
 [![GitHub followers](https://img.shields.io/github/followers/RyuuMeow?style=social)](https://github.com/RyuuMeow)
 ![Profile Views](https://komarev.com/ghpvc/?username=RyuuMeow&color=blueviolet)
-[![GitHub](https://img.shields.io/github/followers/RyuuMeow?label=follow&style=social)](https://github.com/RyuuMeow)
 
 </div>
 
