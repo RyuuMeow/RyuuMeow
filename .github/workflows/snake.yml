@@ -1,4 +1,4 @@
-name: snake
+name: 生成貢獻貪吃蛇
 
 on:
   schedule:
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate snake animation
         uses: Platane/snk@v3.3.0
@@ -20,8 +20,8 @@ jobs:
             dist/github-contribution-grid-snake.svg?palette=github-dark&color_snake=green
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push the generated files
-        uses: actions/upload-artifact@v3
+      - name: Upload the generated snake files
+        uses: actions/upload-artifact@v4
         with:
           name: contribution-snake
           path: dist/
