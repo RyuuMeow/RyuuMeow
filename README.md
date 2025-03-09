@@ -43,5 +43,7 @@
 
 </div>
 
-### 🐍 GitHub Contributions
+---
+
+## 🐍 GitHub Contributions
 ![GitHub 貢獻貪吃蛇](https://github.com/RyuuMeow/RyuuMeow/raw/main/dist/github-contribution-grid-snake.svg)
