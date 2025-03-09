@@ -6,6 +6,8 @@
 [![Years Badge](https://badges.pufler.dev/years/RyuuMeow)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/RyuuMeow)](https://badges.pufler.dev)
 [![GitHub followers](https://img.shields.io/github/followers/RyuuMeow?style=social)](https://github.com/RyuuMeow)
+![Profile Views](https://komarev.com/ghpvc/?username=RyuuMeow&color=blueviolet)
+[![GitHub](https://img.shields.io/github/followers/RyuuMeow?label=follow&style=social)](https://github.com/RyuuMeow)
 
 </div>
 
@@ -33,15 +35,6 @@
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RyuuMeow&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=RyuuMeow&color=blueviolet)
-[![GitHub](https://img.shields.io/github/followers/RyuuMeow?label=follow&style=social)](https://github.com/RyuuMeow)
-
-</div>
 
 ---
 
