@@ -2,28 +2,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RyuuMeow&color=blueviolet)
 
-</div>
-
 ## 📊 GitHub Stats
-
-<div align="center">
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuuMeow&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuMeow&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
 ## 🚀 Skills & Technologies
-
-<div align="center">
-
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-</div>
 
 ## 🏆 GitHub Trophies
 
