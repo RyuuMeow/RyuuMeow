@@ -16,8 +16,8 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-1w0b89vjt-ryuumeows-projects.vercel.app/api?username=RyuuMeow&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-1w0b89vjt-ryuumeows-projects.vercel.app/api/top-langs/?username=RyuuMeow&layout=compact&theme=radical&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats-inky-zeta-33.vercel.app/api?username=RyuuMeow&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/top-langs/?username=RyuuMeow&layout=compact&theme=radical&hide_border=true" width="41%" />
 </p>
 
 ---
