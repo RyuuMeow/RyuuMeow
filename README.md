@@ -9,16 +9,15 @@
 
 ### 🚀 About Me
 
-- 🎮 **Game Dev**: Currently developing game with UE5.
-- 📫 **Reach Me**: [![Gmail](https://img.shields.io/badge/-ryuumeow@synapsecore.net-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ryuumeow@synapsecore.net)
+- 🎮 **Game Dev**: UE5 and Unity.
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyuuMeow&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuuMeow&layout=compact&theme=radical&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats-1w0b89vjt-ryuumeows-projects.vercel.app/api?username=RyuuMeow&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-1w0b89vjt-ryuumeows-projects.vercel.app/api/top-langs/?username=RyuuMeow&layout=compact&theme=radical&hide_border=true" width="41%" />
 </p>
 
 ---
