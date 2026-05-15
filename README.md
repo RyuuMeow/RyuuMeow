@@ -7,9 +7,7 @@
 
 ---
 
-### 🚀 About Me
-
-- 🎮 **Game Dev**: UE5 and Unity.
+偶爾放些有的沒的在這邊
 
 ---
 
