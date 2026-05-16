@@ -57,4 +57,5 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=RyuuMeow&color=7B68EE&style=flat-square" alt="Views" />
 </p>
+
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer)](https://github.com/RyuuMeow)
