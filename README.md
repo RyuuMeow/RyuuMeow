@@ -1,10 +1,10 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header&text=RyuuMeow&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65)](https://github.com/RyuuMeow)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B8FE0&center=true&vCenter=true&width=500&lines=喜歡做工具；工具做到一半；然後去做別的工具)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B8FE0&center=true&vCenter=true&width=500&lines=喜歡做些有的沒的工具；事情做到一半；又跑去做工具)](https://git.io/typing-svg)
 
 ---
 
-偶爾放些有的沒的在這邊。工具控，什麼都想做，什麼都做一半。
+偶爾放些有的沒的在這邊。
 
 ---
 
