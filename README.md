@@ -20,7 +20,7 @@
 
 **[csp-toolkit](https://github.com/RyuuMeow/csp-toolkit)** — 整理 Clip Studio Paint 相關工具的索引，包含自己做的和覺得不錯的第三方工具。
 
-**[ClipStudioPaint-Grayscale-Viewer](https://github.com/RyuuMeow/ClipStudioPaint-Grayscale-Viewer)** — 疊在 CSP 上面的灰階預覽浮層，一個快捷鍵切換，不用另開視窗、不用建暫時圖層。
+**[ClipStudioPaint-Grayscale-Viewer](https://github.com/RyuuMeow/ClipStudioPaint-Grayscale-Viewer)** — 疊在 CSP 上面的灰階預覽浮層，一個快捷鍵切換，不用另開視窗、不用創顏色圖層。
 
 **[SimpleProfileCard](https://github.com/RyuuMeow/SimpleProfileCard)** — 幾行 Python 生出個人名片網頁，支援從 GitHub / YouTube / Reddit 自動抓資料。`pip install profilecard`
 
