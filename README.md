@@ -16,7 +16,7 @@
 
 **[CLI-Eh-Downloader](https://github.com/RyuuMeow/CLI-Eh-Downloader)** — E-Hentai / ExHentai 的互動式 CLI 下載器。支援批次下載、種子整合、關鍵字過濾，Windows 上雙擊 .bat 就能跑。
 
-**[ColorScope](https://github.com/RyuuMeow/ColorScope)** — 給插畫家用的色彩分析工具。取色、色相隔離、飽和度熱力圖、調整圖層（Curves / HSL / Color Balance）、色版生成器，用來拆解別人的配色。[→ 線上版](https://ryuumeow.github.io/ColorScope/)
+**[ColorScope](https://github.com/RyuuMeow/ColorScope)** — 給繪師用的色彩分析工具。取色、色相隔離、飽和度熱力圖、調整圖層（Curves / HSL / Color Balance）、色版生成器，用來拆解別人的配色。[→ 線上版](https://ryuumeow.github.io/ColorScope/)
 
 **[csp-toolkit](https://github.com/RyuuMeow/csp-toolkit)** — 整理 Clip Studio Paint 相關工具的索引，包含自己做的和覺得不錯的第三方工具。
 
@@ -24,7 +24,7 @@
 
 **[SimpleProfileCard](https://github.com/RyuuMeow/SimpleProfileCard)** — 幾行 Python 生出個人名片網頁，支援從 GitHub / YouTube / Reddit 自動抓資料。`pip install profilecard`
 
-**[WurtheringWave_Analyzer](https://github.com/RyuuMeow/WurtheringWave_Analyzer)** — 鳴潮抽卡分析工具，已封存。
+**[WurtheringWave_Analyzer](https://github.com/RyuuMeow/WurtheringWave_Analyzer)** — 鳴潮抽卡分析工具，退坑不維護了。
 
 **[UE5-CPP-Doc-Searcher-Prompt](https://github.com/RyuuMeow/UE5-CPP-Doc-Searcher-Prompt)** — 在寫 UE5 C++ 時用來快速查文件的 Prompt 模板。
 
