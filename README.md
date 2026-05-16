@@ -8,7 +8,13 @@
 
 ---
 
-## 🛠️ 做過的東西
+## 🛠️ 我的Repos
+
+### 目錄、索引用Repo
+
+**[csp-toolkit](https://github.com/RyuuMeow/csp-toolkit)** — 整理 Clip Studio Paint 相關工具的索引，包含自己做的和覺得不錯的第三方工具。
+
+### 實用工具
 
 **[GoPieMenu](https://github.com/RyuuMeow/GoPieMenu)** — Windows 的放射狀快捷選單，靈感來自 Blender。可以依不同應用程式設定不同的選單，從游標位置叫出來，不用把手移離畫布。用 C++/Qt 寫的。
 
@@ -18,13 +24,15 @@
 
 **[ColorScope](https://github.com/RyuuMeow/ColorScope)** — 給繪師用的色彩分析工具。取色、色相隔離、飽和度熱力圖、調整圖層（Curves / HSL / Color Balance）、色版生成器，用來拆解別人的配色。[→ 線上版](https://ryuumeow.github.io/ColorScope/)
 
-**[csp-toolkit](https://github.com/RyuuMeow/csp-toolkit)** — 整理 Clip Studio Paint 相關工具的索引，包含自己做的和覺得不錯的第三方工具。
-
 **[ClipStudioPaint-Grayscale-Viewer](https://github.com/RyuuMeow/ClipStudioPaint-Grayscale-Viewer)** — 疊在 CSP 上面的灰階預覽浮層，一個快捷鍵切換，不用另開視窗、不用創顏色圖層。
+
+**[WurtheringWave_Analyzer](https://github.com/RyuuMeow/WurtheringWave_Analyzer)** — 鳴潮抽卡分析工具，退坑不維護了。
+
+### Python套件
 
 **[SimpleProfileCard](https://github.com/RyuuMeow/SimpleProfileCard)** — 幾行 Python 生出個人名片網頁，支援從 GitHub / YouTube / Reddit 自動抓資料。`pip install profilecard`
 
-**[WurtheringWave_Analyzer](https://github.com/RyuuMeow/WurtheringWave_Analyzer)** — 鳴潮抽卡分析工具，退坑不維護了。
+### AI Prompt類
 
 **[UE5-CPP-Doc-Searcher-Prompt](https://github.com/RyuuMeow/UE5-CPP-Doc-Searcher-Prompt)** — 在寫 UE5 C++ 時用來快速查文件的 Prompt 模板。
 
