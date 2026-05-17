@@ -1,10 +1,16 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header&text=RyuuMeow&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65)](https://github.com/RyuuMeow)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B8FE0&center=true&vCenter=true&width=500&lines=喜歡做些有的沒的工具；事情做到一半；又跑去做工具)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B8FE0&center=true&vCenter=true&width=500&lines=[1/4]+Compiling+ideas...;[2/4]+Linking+motivation...;[3/4]+warning:+half-done+detected;[4/4]+shipping+anyway." />
+  </a>
+</p>
 
 ---
 
 偶爾放些有的沒的在這邊。
+
+> 有幫到你的話，可以點個 ⭐ 支持一下😺。
 
 ---
 
