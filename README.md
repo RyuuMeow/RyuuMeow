@@ -42,6 +42,7 @@
 
 1. **[UE5-CPP-Doc-Searcher-Prompt](https://github.com/RyuuMeow/UE5-CPP-Doc-Searcher-Prompt)** — 在寫 UE5 C++ 時用來快速查文件的 Prompt 模板。
 2. **[Alice-PERSONA-md](https://github.com/RyuuMeow/Alice-PERSONA-md)** — 女僕 Alice 的 AI 人設檔，丟給 AI 就能用。
+3. **[Gemini-Music-Generation_Prompt](https://github.com/RyuuMeow/Gemini-Music-Generation_Prompt)** — 貼進 Gemini App 的 System Prompt，用簡單描述就能生成音樂。主動釐清用戶想要的風格。
 
 ---
 
