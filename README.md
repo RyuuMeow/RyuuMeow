@@ -34,7 +34,7 @@
 
 6. **[WurtheringWave_Analyzer](https://github.com/RyuuMeow/WurtheringWave_Analyzer)** — 鳴潮抽卡分析工具，退坑不維護了。
 
-7. **[MaidWhisper](https://github.com/RyuuMeow/MaidWhisper)** — 系統級AI朗讀軟體，以快捷鍵方式開啟面板，隨時隨地進行閱讀。後端使用GPT-SoVITS進行即時語音生成，自訂角色模型，提供方便的多角色管理，為日常使用打造。
+7. **[MaidWhisper](https://github.com/RyuuMeow/MaidWhisper)** — 系統級AI朗讀軟體，以快捷鍵方式開啟面板，隨時隨地進行閱讀。後端使用GPT-SoVITS進行即時語音生成。可自訂角色模型，提供方便的多角色管理，為日常使用打造。
 
 ### Python套件
 
