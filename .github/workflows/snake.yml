@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-contribution-grid-snake.svg?palette=github-dark&color_snake=green
-            github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            github-contribution-grid-snake.svg?color_snake=#FFD37A&color_dots=#161B22,#4A3408,#8C6213,#CC8E1E,#FFB454
+            github-contribution-grid-snake.gif?color_snake=#FFD37A&color_dots=#161B22,#4A3408,#8C6213,#CC8E1E,#FFB454&color_background=#0D1117
 
       - name: Move files to dist directory
         run: |

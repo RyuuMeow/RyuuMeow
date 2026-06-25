@@ -1,8 +1,8 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header&text=RyuuMeow&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65)](https://github.com/RyuuMeow)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1F29&height=120&section=header&text=RyuuMeow&fontSize=40&fontColor=FFB454&animation=fadeIn&fontAlignY=65)](https://github.com/RyuuMeow)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B8FE0&center=true&vCenter=true&width=500&lines=[1/4]+Compiling+ideas...;[2/4]+Linking+motivation...;[3/4]+warning:+spaghetti+code+detected;[4/4]+shipping+anyway." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB454&center=true&vCenter=true&width=500&lines=[1/4]+Compiling+ideas...;[2/4]+Linking+motivation...;[3/4]+warning:+spaghetti+code+detected;[4/4]+shipping+anyway." />
   </a>
 </p>
 
@@ -10,17 +10,30 @@
 
 偶爾放些有的沒的在這邊。
 
-> 有幫到你的話，可以點個 ⭐ 支持一下😺。
+---
+
+## 🧰 技能 / 工具
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,unreal,unity,qt&theme=dark" />
+</p>
+
 
 ---
 
 ## 🛠️ 我的Repos
 
-### 目錄、索引用Repo
+<details open>
+<summary><b>📂 目錄、索引用Repo</b></summary>
+<br>
 
 1. **[csp-toolkit](https://github.com/RyuuMeow/csp-toolkit)** — 整理 Clip Studio Paint 相關工具的索引，包含自己做的和覺得不錯的第三方工具。
 
-### 實用工具
+</details>
+
+<details open>
+<summary><b>⚙️ 實用工具</b></summary>
+<br>
 
 1. **[GoPieMenu](https://github.com/RyuuMeow/GoPieMenu)** — Windows 的放射狀快捷選單，靈感來自 Blender。可以依不同應用程式設定不同的選單，從游標位置叫出來，不用把手移離畫布。用 C++/Qt 寫的。
 
@@ -36,23 +49,50 @@
 
 7. **[MaidWhisper](https://github.com/RyuuMeow/MaidWhisper)** — 系統級AI朗讀軟體，以快捷鍵方式開啟面板，隨時隨地進行閱讀。後端使用GPT-SoVITS進行即時語音生成。可自訂角色模型，提供方便的多角色管理，為日常使用打造。
 
-### Python套件
+</details>
+
+<details open>
+<summary><b>🐍 Python套件</b></summary>
+<br>
 
 1. **[SimpleProfileCard](https://github.com/RyuuMeow/SimpleProfileCard)** — 幾行 Python 生出個人名片網頁，支援從 GitHub / YouTube / Reddit 自動抓資料。`pip install profilecard`
 
-### AI Prompt類
+</details>
+
+<details open>
+<summary><b>🤖 AI Prompt類</b></summary>
+<br>
 
 1. **[UE5-CPP-Doc-Searcher-Prompt](https://github.com/RyuuMeow/UE5-CPP-Doc-Searcher-Prompt)** — 在寫 UE5 C++ 時用來快速查文件的 Prompt 模板。
 2. **[Alice-PERSONA-md](https://github.com/RyuuMeow/Alice-PERSONA-md)** — 女僕 Alice 的 AI 人設檔，丟給 AI 就能用。
 3. **[Gemini-Music-Generation_Prompt](https://github.com/RyuuMeow/Gemini-Music-Generation_Prompt)** — 貼進 Gemini App 的 System Prompt，用簡單描述就能生成音樂。主動釐清用戶想要的風格。
+
+</details>
 
 ---
 
 ## 📊 GitHub 統計
 
 <p align="center">
-  <img src="https://github-readme-stats-inky-zeta-33.vercel.app/api?username=RyuuMeow&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/top-langs/?username=RyuuMeow&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
+  <img src="https://github-readme-stats-inky-zeta-33.vercel.app/api?username=RyuuMeow&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9" width="48%" />
+  <img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/top-langs/?username=RyuuMeow&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFB454&text_color=C9D1D9" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyuuMeow&bg_color=0D1117&color=C9D1D9&line=FFB454&point=FFB454&area=true&area_color=FFB454&hide_border=true&custom_title=近期活躍度" width="90%" />
+</p>
+
+---
+
+## 🏆 成就 / 連續打卡
+
+<p align="center">
+  <img src="https://github.com/RyuuMeow/RyuuMeow/raw/main/dist/trophy.svg" />
+</p>
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RyuuMeow&theme=dark&hide_border=true&background=0D1117&ring=FFB454&fire=FFB454&currStreakLabel=FFB454&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E&currStreakNum=FFFFFF" />
 </p>
 
 ---
@@ -63,8 +103,33 @@
 
 ---
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=RyuuMeow&color=7B68EE&style=flat-square" alt="Views" />
+## ☕ Support / Donate
+
+如果這些工具、專案或某些奇怪的東西剛好幫到了你，歡迎請我喝杯飲料。
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <b>USDT (TRC-20)</b><br>
+        <img src="./donation/USDT_TRC-20.png" width="220"><br>
+        <code>TXmghw1R9QaQSKGWEWP9ydr1xj8G1MqHrL</code>
+      </td>
+      <td align="center">
+        <b>ETH (ERC-20)</b><br>
+        <img src="./donation/ETH_ERC-20.png" width="220"><br>
+        <code>0xe7b06b924cbca4b922585a4ccd665cd2c3d0e02c</code>
+      </td>
+    </tr>
+  </table>
 </p>
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=80&section=footer)](https://github.com/RyuuMeow)
+> 感謝所有願意支持的人，這些都會變成新的坑、新的工具，或更多半夜寫出來的奇怪專案。
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=RyuuMeow&color=FFB454&style=flat-square" alt="Views" />
+</p>
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1A1F29,100:0D1117&height=80&section=footer)](https://github.com/RyuuMeow)
