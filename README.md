@@ -27,7 +27,15 @@
 <summary><b>📂 目錄、索引用Repo</b></summary>
 <br>
 
-1. **[csp-toolkit](https://github.com/RyuuMeow/csp-toolkit)** — 整理 Clip Studio Paint 相關工具的索引，包含自己做的和覺得不錯的第三方工具。
+<table>
+<tr><td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/csp-toolkit">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=csp-toolkit&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>整理 Clip Studio Paint 相關工具的索引，包含自己做的和覺得不錯的第三方工具。</sub>
+</td></tr>
+</table>
 
 </details>
 
@@ -35,19 +43,102 @@
 <summary><b>⚙️ 實用工具</b></summary>
 <br>
 
-1. **[GoPieMenu](https://github.com/RyuuMeow/GoPieMenu)** — Windows 的放射狀快捷選單，靈感來自 Blender。可以依不同應用程式設定不同的選單，從游標位置叫出來，不用把手移離畫布。用 C++/Qt 寫的。
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/GoPieMenu">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=GoPieMenu&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>
+Windows 的放射狀快捷選單，靈感來自 Blender。可依不同應用程式設定不同選單，從游標位置叫出來，不用把手移離畫布。C++/Qt 寫的。
+<br><br>
+<img src="https://img.shields.io/github/downloads/RyuuMeow/GoPieMenu/total?label=Downloads&style=flat-square&color=FFB454">
+</sub>
+</td>
 
-2. **[NeverThinkAutoReply](https://github.com/RyuuMeow/NeverThinkAutoReply)** — 反白文字、按快捷鍵，AI 幫你生回覆。有正常、反駁、嘲諷、MyGO 梗圖、Ave Mujica 梗圖等模式，也能對圖片做 OCR 然後以圖攻圖。
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/NeverThinkAutoReply">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=NeverThinkAutoReply&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>
+反白文字、按快捷鍵，AI 幫你生回覆。有正常、反駁、嘲諷、MyGO / Ave Mujica 梗圖等模式，也能對圖片做 OCR 後以圖攻圖。
+<br><br>
+<img src="https://img.shields.io/github/downloads/RyuuMeow/NeverThinkAutoReply/total?label=Downloads&style=flat-square&color=FFB454">
+</sub>
+</td>
+</tr>
 
-3. **[CLI-Eh-Downloader](https://github.com/RyuuMeow/CLI-Eh-Downloader)** — E-Hentai / ExHentai 的互動式 CLI 下載器。支援批次下載、種子整合、關鍵字過濾，Windows 上雙擊 .bat 就能跑。
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/CLI-Eh-Downloader">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=CLI-Eh-Downloader&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>
+E-Hentai / ExHentai 的互動式 CLI 下載器。支援批次下載、種子整合、關鍵字過濾，Windows 上雙擊 .bat 就能跑。
+<br><br>
+<img src="https://img.shields.io/github/stars/RyuuMeow/CLI-Eh-Downloader?label=Stars&style=flat-square&color=FFB454">
+</sub>
+</td>
 
-4. **[ColorScope](https://github.com/RyuuMeow/ColorScope)** — 給繪師用的色彩分析工具。取色、色相隔離、飽和度熱力圖、調整圖層（Curves / HSL / Color Balance）、色版生成器，用來拆解別人的配色。[→ 線上版](https://ryuumeow.github.io/ColorScope/)
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/ColorScope">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=ColorScope&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>
+給繪師用的色彩分析工具。取色、色相隔離、飽和度熱力圖、調整圖層（Curves / HSL / Color Balance）、色版生成器。
+<a href="https://ryuumeow.github.io/ColorScope/">→ 線上版</a>
+<br><br>
+<img src="https://img.shields.io/github/stars/RyuuMeow/ColorScope?label=Stars&style=flat-square&color=FFB454">
+</sub>
+</td>
+</tr>
 
-5. **[ClipStudioPaint-Grayscale-Viewer](https://github.com/RyuuMeow/ClipStudioPaint-Grayscale-Viewer)** — 疊在 CSP 上面的灰階預覽浮層，一個快捷鍵切換，不用另開視窗、不用創顏色圖層。
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/ClipStudioPaint-Grayscale-Viewer">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=ClipStudioPaint-Grayscale-Viewer&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>
+疊在 CSP 上面的灰階預覽浮層，一個快捷鍵切換，不用另開視窗、不用建顏色圖層。
+<br><br>
+<img src="https://img.shields.io/github/downloads/RyuuMeow/ClipStudioPaint-Grayscale-Viewer/total?label=Downloads&style=flat-square&color=FFB454">
+</sub>
+</td>
 
-6. **[WurtheringWave_Analyzer](https://github.com/RyuuMeow/WurtheringWave_Analyzer)** — 鳴潮抽卡分析工具，退坑不維護了。
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/WurtheringWave_Analyzer">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=WurtheringWave_Analyzer&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>
+鳴潮抽卡分析工具，退坑不維護了。
+<br><br>
+<img src="https://img.shields.io/github/downloads/RyuuMeow/WurtheringWave_Analyzer/total?label=Downloads&style=flat-square&color=FFB454">
+</sub>
+</td>
+</tr>
 
-7. **[MaidWhisper](https://github.com/RyuuMeow/MaidWhisper)** — 系統級AI朗讀軟體，以快捷鍵方式開啟面板，隨時隨地進行閱讀。後端使用GPT-SoVITS進行即時語音生成。可自訂角色模型，提供方便的多角色管理，為日常使用打造。
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/MaidWhisper">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=MaidWhisper&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>
+系統級 AI 朗讀軟體，快捷鍵開啟面板，隨時進行閱讀。後端使用 GPT-SoVITS 即時語音生成，可自訂角色模型、多角色管理。
+<br><br>
+<img src="https://img.shields.io/github/downloads/RyuuMeow/MaidWhisper/total?label=Downloads&style=flat-square&color=FFB454">
+</sub>
+</td>
+
+<td></td>
+</tr>
+</table>
 
 </details>
 
@@ -55,7 +146,15 @@
 <summary><b>🐍 Python套件</b></summary>
 <br>
 
-1. **[SimpleProfileCard](https://github.com/RyuuMeow/SimpleProfileCard)** — 幾行 Python 生出個人名片網頁，支援從 GitHub / YouTube / Reddit 自動抓資料。`pip install profilecard`
+<table>
+<tr><td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/SimpleProfileCard">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=SimpleProfileCard&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>幾行 Python 生出個人名片網頁，支援從 GitHub / YouTube / Reddit 自動抓資料。<code>pip install profilecard</code></sub>
+</td></tr>
+</table>
 
 </details>
 
@@ -63,9 +162,34 @@
 <summary><b>🤖 AI Prompt類</b></summary>
 <br>
 
-1. **[UE5-CPP-Doc-Searcher-Prompt](https://github.com/RyuuMeow/UE5-CPP-Doc-Searcher-Prompt)** — 在寫 UE5 C++ 時用來快速查文件的 Prompt 模板。
-2. **[Alice-PERSONA-md](https://github.com/RyuuMeow/Alice-PERSONA-md)** — 女僕 Alice 的 AI 人設檔，丟給 AI 就能用。
-3. **[Gemini-Music-Generation_Prompt](https://github.com/RyuuMeow/Gemini-Music-Generation_Prompt)** — 貼進 Gemini App 的 System Prompt，用簡單描述就能生成音樂。主動釐清用戶想要的風格。
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/UE5-CPP-Doc-Searcher-Prompt">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=UE5-CPP-Doc-Searcher-Prompt&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>在寫 UE5 C++ 時用來快速查文件的 Prompt 模板。</sub>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/Alice-PERSONA-md">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=Alice-PERSONA-md&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>女僕 Alice 的 AI 人設檔，丟給 AI 就能用。</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/RyuuMeow/Gemini-Music-Generation_Prompt">
+<img src="https://github-readme-stats-inky-zeta-33.vercel.app/api/pin/?username=RyuuMeow&repo=Gemini-Music-Generation_Prompt&bg_color=0D1117&title_color=FFB454&icon_color=FFB454&text_color=C9D1D9&hide_border=true" width="100%"/>
+</a>
+<br>
+<sub>貼進 Gemini App 的 System Prompt，用簡單描述就能生成音樂，會主動釐清想要的風格。</sub>
+</td>
+<td></td>
+</tr>
+</table>
 
 </details>
 
