@@ -91,9 +91,9 @@ display_count = f"{total_downloads:,}"
 
 badge = (
     '<img '
-    'src="https://img.shields.io/badge/DOWNLOADS-'
+    'src="https://img.shields.io/badge/TOTAL%20DOWNLOADS-'
     f'{display_count.replace(",", "%2C")}-'
-    'FFB454?style=flat-square&logo=github&labelColor=161B22" '
+    'FFB454?style=flat-square" '
     'alt="Total release downloads">'
 )
 
