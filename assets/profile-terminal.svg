@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">RyuuMeow midnight terminal</title>
+  <desc id="desc">A hand-coded amber and navy terminal banner with a pixel cat mascot.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#27303b" stroke-width="1" opacity="0.28"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H1200" stroke="#000" stroke-width="1" opacity="0.18"/>
+    </pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFB454" stop-opacity="0.14"/>
+      <stop offset="0.55" stop-color="#FFB454" stop-opacity="0.02"/>
+      <stop offset="1" stop-color="#0D1117" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="amberGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="318" rx="15" fill="none" stroke="#30363D" stroke-width="2"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <path d="M0 0H780L610 320H0Z" fill="url(#glow)"/>
+  <path d="M24 44V24H44 M1156 24H1176V44 M24 276V296H44 M1156 296H1176V276" fill="none" stroke="#FFB454" stroke-width="2"/>
+  <path d="M25 79H168 M1032 79H1175 M25 246H130 M1070 246H1175" stroke="#FFB454" stroke-width="1" opacity="0.5"/>
+  <circle cx="182" cy="79" r="3" fill="#FFB454"/>
+  <circle cx="1018" cy="79" r="3" fill="#FFB454"/>
+  <g font-family="Consolas, 'Courier New', monospace">
+    <text x="64" y="67" fill="#FFB454" font-size="15" letter-spacing="3">SYSTEM://RYUUMEOW</text>
+    <text x="64" y="144" fill="#F0F3F6" font-size="58" font-weight="700" letter-spacing="8">RYUUMEOW</text>
+    <rect x="65" y="163" width="476" height="2" fill="#FFB454"/>
+    <rect x="548" y="163" width="44" height="2" fill="#6E7681"/>
+    <text x="64" y="201" fill="#C9D1D9" font-size="20" letter-spacing="2">夜更かし駆動。好奇心でコンパイル。</text>
+    <text x="64" y="242" fill="#8B949E" font-size="14">TOOLSMITH  /  ARTIST SUPPORT  /  MIDNIGHT BUILD</text>
+    <g transform="translate(760 38)">
+      <path d="M0 0H376L400 24V236L376 260H0L-24 236V24Z" fill="#10161E" stroke="#30363D" stroke-width="2"/>
+      <path d="M0 0H104 M296 260H376" stroke="#FFB454" stroke-width="3"/>
+      <text x="22" y="31" fill="#6E7681" font-size="12" letter-spacing="2">FAMILIAR_01</text>
+      <circle cx="344" cy="26" r="5" fill="#3FB950" filter="url(#amberGlow)"/>
+      <text x="292" y="31" fill="#8B949E" font-size="11">ONLINE</text>
+      <g transform="translate(90 47)" fill="#FFB454" font-size="24" filter="url(#amberGlow)">
+        <text x="0" y="24" xml:space="preserve">    /\_/\</text>
+        <text x="0" y="54" xml:space="preserve">   ( o.o )</text>
+        <text x="0" y="84" xml:space="preserve">    &gt; ^ &lt;</text>
+      </g>
+      <path d="M24 160H352" stroke="#30363D"/>
+      <text x="24" y="188" fill="#8B949E" font-size="12">MOOD</text>
+      <text x="105" y="188" fill="#C9D1D9" font-size="12">CURIOUS</text>
+      <text x="224" y="188" fill="#8B949E" font-size="12">ENERGY</text>
+      <rect x="282" y="178" width="70" height="8" rx="4" fill="#21262D"/>
+      <rect x="282" y="178" width="47" height="8" rx="4" fill="#FFB454"/>
+      <text x="24" y="216" fill="#8B949E" font-size="12">UPTIME</text>
+      <text x="105" y="216" fill="#C9D1D9" font-size="12">02:47:∞</text>
+      <text x="224" y="216" fill="#8B949E" font-size="12">BUILD</text>
+      <text x="282" y="216" fill="#FFB454" font-size="12">UNSTABLE</text>
+      <text x="24" y="242" fill="#6E7681" font-size="10" letter-spacing="1">[ PRESS STAR TO FEED THE CAT ]</text>
+    </g>
+  </g>
+  <rect width="1200" height="320" rx="16" fill="url(#scan)" pointer-events="none"/>
+</svg>
