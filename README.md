@@ -14,6 +14,7 @@
   <img src="./assets/milkdragon-heart.jpg" width="100%" alt="milkdragon heart">
 </p>
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
@@ -28,3 +29,4 @@
     </td>
   </tr>
 </table>
+</div>
