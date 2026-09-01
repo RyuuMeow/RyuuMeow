@@ -3,7 +3,9 @@
     <img src="https://img.shields.io/github/followers/RyuuMeow?style=flat-square&amp;logo=github&amp;label=FOLLOWERS&amp;color=FFB454&amp;labelColor=161B22" alt="GitHub followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=RyuuMeow&amp;style=flat-square&amp;color=FFB454&amp;label=VISITORS" alt="Profile visitors" />
+  <!-- TOTAL_RELEASE_DOWNLOADS:START -->
   <img src="https://img.shields.io/badge/DOWNLOADS-0-FFB454?style=flat-square&amp;logo=github&amp;labelColor=161B22" alt="Total release downloads" />
+  <!-- TOTAL_RELEASE_DOWNLOADS:END -->
 </p>
 
 <p align="center">
