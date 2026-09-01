@@ -4,7 +4,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=RyuuMeow&amp;style=flat-square&amp;color=FFB454&amp;label=VISITORS" alt="Profile visitors" />
   <!-- TOTAL_RELEASE_DOWNLOADS:START -->
-<img src="https://img.shields.io/badge/ALL%20RELEASES-20%2C859%20DOWNLOADS-FFB454?style=for-the-badge&labelColor=161B22" alt="Total release downloads">
+<img src="https://img.shields.io/badge/DOWNLOADS-20%2C859-FFB454?style=flat-square&logo=github&labelColor=161B22" alt="Total release downloads">
 <!-- TOTAL_RELEASE_DOWNLOADS:END -->
 </p>
 
