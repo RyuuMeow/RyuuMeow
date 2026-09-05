@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=RyuuMeow&amp;style=flat-square&amp;color=FFB454&amp;label=VISITORS" alt="Profile visitors" />
   <img src="https://img.shields.io/github/stars/RyuuMeow?style=flat-square&amp;color=FFB454&amp;label=TOTAL%20STARS" alt="Total GitHub stars" />
   <!-- TOTAL_RELEASE_DOWNLOADS:START -->
-<img src="https://img.shields.io/badge/TOTAL%20DOWNLOADS-20%2C865-FFB454?style=flat-square" alt="Total release downloads">
+<img src="https://img.shields.io/badge/TOTAL%20DOWNLOADS-20%2C868-FFB454?style=flat-square" alt="Total release downloads">
 <!-- TOTAL_RELEASE_DOWNLOADS:END -->
 </p>
 
