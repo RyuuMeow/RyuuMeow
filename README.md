@@ -11,10 +11,6 @@
 
 <p align="center">
   <img src="./assets/turtle.jpg" width="100%" alt="turtle">
-  <img src="./assets/plankton.webp" width="100%" alt="plankton">
-  <img src="./assets/cat.webp" width="100%" alt="cat">
-  <img src="./assets/milkdragon-thinking.jpg" width="100%" alt="milkdragon thinking">
-  <img src="./assets/milkdragon-heart.jpg" width="100%" alt="milkdragon heart">
 </p>
 
 <div align="center">
