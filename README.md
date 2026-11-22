@@ -9,10 +9,6 @@
 <!-- TOTAL_RELEASE_DOWNLOADS:END -->
 </p>
 
-<p align="center">
-  <img src="./assets/turtle.jpg" width="100%" alt="turtle">
-</p>
-
 <div align="center">
 <table>
   <tr>
